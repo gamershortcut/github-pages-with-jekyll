@@ -1,6 +1,5 @@
-
+theme: minima
 <html lang="en">
-theme:minima
 <head>
   <title>Gamer Shortcut - HELP
   </title>
