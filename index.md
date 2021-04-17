@@ -1,5 +1,4 @@
 
-<!doctype html>
 <html lang="en">
 
 <head>
@@ -30,7 +29,7 @@
           <ul class="navbar-nav ms-auto mt-3 mt-md-0">
 
             <li class="nav-item">
-              <a class="nav-link text-white" href="#app">Apps</a>
+              <a class="nav-link text-white" href="#app">BIOS</a>
             </li>
 
             <li class="nav-item">
@@ -38,12 +37,12 @@
             </li>
 
             <li class="nav-item ">
-              <a class="nav-link text-white ms-lg-3" href="https://discord.com/invite/cmVZuhj"
+              <a class="nav-link text-white ms-lg-3" href=""
                 target="_blank">Discord</a>
             </li>
 
             <li class="nav-item ">
-              <a class="nav-link text-white ms-lg-3" href="https://www.paypal.com/paypalme/TobyMCDonations"
+              <a class="nav-link text-white ms-lg-3" href=""
                 target="_blank">Donate</a>
             </li>
 
@@ -60,14 +59,14 @@
 
         <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="400">
           <div class="card text-center">
-            <img class="card-img-top" src="./img/retroarch.png" alt="Retroarch">
+            <img class="card-img-top" src="./img/snes.png" alt="Retroarch">
             <div class="card-body">
-              <h5 class="card-title">RetroArch</h5>
-              <p class="card-text">RetroArch is a multi-emulator frontend.</p>
+              <h5 class="card-title">Super Nintendo</h5>
+              <p class="card-text">BIOS SNES9X</p>
               <div class="row justify-content-around">
-                <a href="ms-windows-store://pdp/?productid=9NZD55QWL2NG" class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download
-                  App</a>
-                <a data-bs-toggle="modal" data-bs-target="#retroarch" class="col-md-5 btn btn-success">Guide</a>
+                <a href="https://www.mediafire.com/file/ja9j5cbboibubmi/BS-X.bin/file">Download
+                  BIOS</a>
+                <a href="https://www.youtube.com/watch?v=zf7oC-QAUmY">Tutorial</a>
               </div>
             </div>
           </div>
